@@ -5,7 +5,7 @@ module.exports = {
         convite: 'https://discord.gg/sensitive'
     },
     bot: {
-        token:'ODM5NTU5NDM0ODUzODEwMjI2.GervXS.Z3SRe6ceHGETJXlAykn3gBY_zpAXGbxjjS7ouI' 
+        token:'' 
     },
     pagina: {
         particulas: 'https://cdn.discordapp.com/emojis/1113908859510210580.webp?size=160&quality=lossless',
